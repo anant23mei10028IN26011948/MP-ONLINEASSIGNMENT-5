@@ -1,12 +1,12 @@
 # Employee Attrition Prediction using Decision Tree and Random Forest Classification
 
-**Name:** Deepti Gupta
+**Name:** ANANT YADAV
 
-**Reg No:** 23MEI10007
+**Reg No:** 23MEI10028
 
-**Email:** deepti.23mei10007@vitbhopal.ac.in
+**Email:** anant.23mei10028@vitbhopal.ac.in
 
-**Application no:** IN26011816
+**Application no:** IN26011948
 
 ## 🎯 Objective
 Build and compare Decision Tree and Random Forest classification models to predict
